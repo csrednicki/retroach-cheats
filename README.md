@@ -3,4 +3,6 @@
 Collection of my cheats that can be used in RetroArch.
 
 Available cheats:
-- Pinball Fantasies - Infinite balls
+- Amiga
+  - Pinball Fantasies - Infinite balls
+  - Jurassic Park - Infinite health
